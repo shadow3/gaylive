@@ -1,7 +1,7 @@
 +--------------------------------------+---------+----------+---------------------------------------------+----------------------------------+
 | email                                | twitter | facebook | password                                    | new_password                     |
 +--------------------------------------+---------+----------+---------------------------------------------+----------------------------------+
-[22:33:18] [WARNING] console output will be trimmed to last 256 rows due to large table size
+
 | launerprofan@hotmail.com             | <blank> | <blank>  | e84f8292cd24554859b68a2f08b07cd4            | <blank>                          |
 | ivordebrow@hotmail.com               | <blank> | <blank>  | 5d20a6d79a2a421adf2513dc4ff8e69b            | <blank>                          |
 | marovichro@hotmail.com               | <blank> | <blank>  | 0e5dd920297801832cf5b5effdbb8846            | <blank>                          |
